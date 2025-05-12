@@ -1,0 +1,18 @@
+.imageedit{
+     height: 200px;
+    width: 200px;
+    margin-left: 60px;
+}
+
+.des{
+     text-decoration-line: underline;
+  text-decoration-style:none;
+}
+
+@media screen and (min-width:600px) {
+    .fenal{
+      margin-left: -10px;
+      word-wrap: break-word;
+    }
+}
+
