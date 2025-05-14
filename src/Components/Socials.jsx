@@ -21,7 +21,7 @@ const Socials = () => {
          </Nav.Link>
        <Link to="#">
        <button type="button" className="fs-1 btn btn-primary"
-       style={{padding:"1px 60px", marginLeft:"32px"}}>
+       style={{padding:"1px 60px", marginLeft:"31px"}}>
         <FaTelegramPlane />
     </button>
    </Link>
