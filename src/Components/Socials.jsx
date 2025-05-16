@@ -27,9 +27,9 @@ const Socials = () => {
    </Link>
 
    
-       <Link to="https://t.me/PiAnnouncements">
+       <Link to="#" className="net">
        <button type="button" className="fs-1 btn btn-secondary"
-       style={{padding:"1px 60px", marginLeft:"60px"}}>
+       style={{padding:"1px 60px", marginLeft:"190px", marginTop:"-73px"}}>
         <FaXTwitter />
     </button>
    </Link>
